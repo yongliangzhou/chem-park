@@ -1,0 +1,20 @@
+# 系统/日志
+hs_err_pid*.log
+replay_pid*.log
+*.log
+.DS_Store
+Thumbs.db
+
+# 构建产物
+target/
+build/
+dist/
+node_modules/
+*.class
+
+# IDE / 工具
+.idea/
+.vscode/
+*.iml
+.trae/
+.codebuddy/
